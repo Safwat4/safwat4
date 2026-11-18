@@ -1,58 +1,23 @@
-# Hi, I'm Safwat Ahmed Galal 👋
+# Hi, I'm Safwat Ahmed Galal
 
-### Information Systems Graduate | Backend Developer | Lifelong Learner
+I'm a junior backend developer working with Node.js and Express. I studied Information Systems, and I enjoy building APIs, designing databases, and getting authentication right.
 
-I'm an Information Systems graduate and Junior Backend Developer specializing in Node.js, Express.js, 
-MongoDB, and RESTful APIs. Experienced in building secure and maintainable backend systems, 
-with hands-on experience in authentication, authorization, database integration, and clean 
-architecture.
+## Tech I use
 
-I'm always open to learning new technologies, collaborating with developers, contributing to meaningful projects, and exploring opportunities to grow professionally.
+- **Languages:** JavaScript (ES6+), SQL. Currently picking up TypeScript.
+- **Backend:** Node.js, Express, REST APIs, JWT auth with role-based access, Socket.io
+- **Databases:** MongoDB, SQL
+- **Tools:** Git, Postman, Jest
+- **Patterns:** MVC, service layer, repository pattern
 
----
+## What I'm working on now
 
-### 🚀 Technical Skills
+Learning TypeScript, writing better tests, and getting deeper into database design and system design.
 
-**Programming**
-- JavaScript (ES6+),
-- SQL, Python 
+## Get in touch
 
-**Backend**
-- Node.js & Express.js
-- RESTful API Design & Development
-- Authentication & Authorization (JWT, RBAC)
-- Repository Pattern & Service Layer Architecture
-- Error Handling & Input Validation
+I'm looking for a junior backend role and happy to chat with other developers.
 
-**Tools & Technologies**
-- Git & GitHub
-- Postman
-- Jest
-- npm
-- dotenv
-
-**Software Engineering**
-- Clean Architecture
-- Repository Pattern
-- Service Layer
-- OOP
-- Error Handling 
-- Request Validation 
----
-### 🌱 Currently Learning & Exploring
-- Improving my backend architecture and system design skills.
-- Writing better tests and building more reliable applications.
-- Exploring advanced JavaScript and TypeScript.
-- Learning about scalable systems and modern software engineering practices.
-- Exploring how AI tools can improve development workflows and productivity.
----
-### 🤝 Let's Connect!
-I'm open to connecting with developers, collaborating on interesting projects, exchanging knowledge, and exploring career opportunities in software development.
-
-- **Email:** safwat.ahmed157@gmail.com
-- **LinkedIn:** [Safwat Ahmed Galal](https://linkedin.com/in/safwat-ahmed-galal)
-- **GitHub:** [@Safwat4](https://github.com/Safwat4)
-
----
-
-⭐ *Always learning, always building, and always looking for ways to improve.*
+- Email: [safwat.ahmed157@gmail.com](mailto:safwat.ahmed157@gmail.com)
+- LinkedIn: [Safwat Ahmed Galal](https://linkedin.com/in/safwat-ahmed-galal)
+- GitHub: [@Safwat4](https://github.com/Safwat4)
